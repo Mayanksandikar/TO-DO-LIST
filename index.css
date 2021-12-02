@@ -1,0 +1,165 @@
+.div3{
+    display: grid;
+    grid-template-columns: 170px 170px 170px;
+    grid-gap: 80px;
+    margin-left: 20%;
+
+}
+
+.div3-1{
+    border: 1px solid red ;
+    width: 170px;
+    height: 300px;
+    border-radius: 9px;
+    box-shadow: 2px 2px 3px;
+    text-align: center;
+    
+    /* margin-top: 20%;
+    margin-left: 40%; */
+   
+}
+
+.div3-2{
+    border: 1px solid red ;
+    width: 170px;
+    height: 300px;
+    border-radius: 9px;
+    box-shadow: 2px 2px 3px;
+    /* margin-top: 20%;
+    margin-left: 40%;
+    */
+    text-align: center;
+
+}
+
+.div3-3{
+    border: 1px solid red ;
+    width: 170px;
+    height: 300px;
+    border-radius: 9px;
+    box-shadow: 2px 2px 3px;
+    text-align: center;
+
+    /* margin-top: 20%;
+    margin-left: 40%; */
+   
+}
+
+.none{
+    text-decoration: none;
+}
+
+.hr{
+    width: 129px;
+    float: right;
+    margin-top: 0%;
+   
+}
+
+.line{
+    color: red;
+    text-decoration: line-through 2px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.task{
+    /* margin: 209px 50px 42px 219px; */
+    font-size: 40px;
+   margin-top: 10%;
+   margin-left: 20%;
+    /* position: absolute; */
+}
+
+.div2{
+    float: right;
+    margin-top: -5.5%;
+    margin-right: 31%;
+}
+
+.paris{
+    border: 2px solid red;
+    height: 270px;
+    width: 250px;
+    text-align: center;
+    margin-top: 9px;
+    margin-left: 460px;
+    box-shadow: 3px 3px 9px;
+    border-radius: 9px;
+
+}
+.h2 {
+    width: 50%; 
+    text-align: center; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.1em;
+    margin: 150px 2px  20px 250px ; 
+ }
+
+  
+.span { 
+    background:#fff; 
+    padding:0 10px; 
+    font-size: 40px;
+}
+
+.blur{
+    filter: blur(5px);
+
+}
+.new{
+    background-color: white;
+     color: rgb(243, 51, 51);
+     font-weight: bold;
+     border: 1px solid red;
+     position: absolute;
+     top: 55%;
+     left: 41%;
+     transform: translate(-50%, -50%);
+     z-index: 9999999999999;
+     width: 300px;
+     height: 100px;
+     padding: 20px;
+     border-radius: 7px;
+     text-align: center;
+     box-shadow: 3px 3px 9px;
+   
+   
+   }
+   #add{
+    background-color: red;
+    border-radius: 12px;
+    border: solid red;
+    font-size: 18px;
+}
+#add1{
+    background-color: red;
+    border-radius: 12px;
+    border: solid red;
+    font-size: 18px;
+}
+
+.hr1{
+    width: 178px;
+    float: right;
+   
+}
+
+.item1{
+    background-image: url('./img/paris.png');
+    height: 500px;
+    width: 1000px;
+    margin-left: 10%;
+    margin-top: 3%;
+    filter: blur(5px);
+}
+
+.item{
+    background-image: url('./img/index1.png');
+    height: 500px;
+    width: 900px;
+    margin-left: 14%;
+    margin-top: 7%;
+    filter: blur(5px);
+
+}
